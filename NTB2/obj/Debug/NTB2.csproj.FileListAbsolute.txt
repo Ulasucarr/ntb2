@@ -1,0 +1,12 @@
+D:\ULASCAN_UCAR_NTB2\NTB2\NTB2\bin\Debug\NTB2DB.mdf
+D:\ULASCAN_UCAR_NTB2\NTB2\NTB2\bin\Debug\NTB2DB_log.ldf
+D:\ULASCAN_UCAR_NTB2\NTB2\NTB2\bin\Debug\NTB2.exe.config
+D:\ULASCAN_UCAR_NTB2\NTB2\NTB2\bin\Debug\NTB2.exe
+D:\ULASCAN_UCAR_NTB2\NTB2\NTB2\bin\Debug\NTB2.pdb
+D:\ULASCAN_UCAR_NTB2\NTB2\NTB2\obj\Debug\NTB2.frmMain.resources
+D:\ULASCAN_UCAR_NTB2\NTB2\NTB2\obj\Debug\NTB2.frmOgrenciBul.resources
+D:\ULASCAN_UCAR_NTB2\NTB2\NTB2\obj\Debug\NTB2.Properties.Resources.resources
+D:\ULASCAN_UCAR_NTB2\NTB2\NTB2\obj\Debug\NTB2.csproj.GenerateResource.cache
+D:\ULASCAN_UCAR_NTB2\NTB2\NTB2\obj\Debug\NTB2.csproj.CoreCompileInputs.cache
+D:\ULASCAN_UCAR_NTB2\NTB2\NTB2\obj\Debug\NTB2.exe
+D:\ULASCAN_UCAR_NTB2\NTB2\NTB2\obj\Debug\NTB2.pdb
